@@ -7,11 +7,11 @@
 | Advertisement/Ads |**اشتہار**|
 | API  |**API**|
 | Approved |**منظور شدہ**|
+| Archive |**آرکائیو**|
 | Articles |**مضمون**|
 | Auto |**خودبخود**|
 | Autoscroll  |**خودبخود سکرال**|
 | Authentication |**توثيق کارى**|
-| Archive |**آرکائیو**|
 | Block |**روکیں**|
 | Bookmark  |**بکمارک**|
 | Browsing |**براؤزنگ**|
